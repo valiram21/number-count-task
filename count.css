@@ -1,0 +1,32 @@
+section{
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 500px;
+    background-color: white;
+    box-shadow: 3px 3px 20px 10px rgb(161,161,161);
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 60px;
+    margin-top: -10px;
+}
+#sub{
+    width: 25px;
+    background-color: red;
+    color: white;   
+}
+#add{
+    width: 25px;
+    background-color: green;
+    color: white;
+}
+#reset{
+    background-color: grey;
+    color: white;
+}
